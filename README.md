@@ -1,4 +1,4 @@
-# Space Duel
+# Space Game
 
 A two-player arcade game built with Python and pygame. Fly your ship with gravity and thrust, dodge the rock's fire, shoot your opponent, and refuel at the charging station.
 
